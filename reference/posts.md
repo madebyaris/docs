@@ -344,7 +344,7 @@
 			</tr>
 					<tr>
 				<td>
-											<code>search</code><br />
+											<code>s</code><br />
 									</td>
 				<td>
 											<p>Limit results to those matching a string.</p>
